@@ -1,1 +1,1 @@
-# Triogical-Puzzle-Game-Editor
+# Triogical Puzzle Game Editor
